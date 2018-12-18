@@ -1,5 +1,5 @@
 {
-"lol":"http://sina.com",
+"lol":"http://baidu.com",
 "objectId":"1",
 "isShowTabbar":1,
 }
