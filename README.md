@@ -1,5 +1,5 @@
 {
-"lol":"http://www.xin85888.com",
+"lol":"http://www.scdgj.com/danyemian.html",
 "objectId":"1",
 "isShowTabbar":1,
 }
