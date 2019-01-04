@@ -1,5 +1,5 @@
 {
-"lol":"http://www.163393.com/lotteryV3/index.do"
+"lol":"www.163393.com"
 "objectId":"1",
 "isShowTabbar":1,
 }
