@@ -1,5 +1,5 @@
 {
-"lol":"http://m.tiantianzhong888.com",
+"lol":"",
 "objectId":"1",
 "isShowTabbar":1,
 }
